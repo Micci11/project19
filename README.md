@@ -37,12 +37,12 @@ Feel free to explore the application's features and enjoy an enhanced writing ex
 
 ## Screenshot
 
-![screenshot](C:\Users\Micci\Desktop\Screenshot 2023-07-21 205848.png)
+![screenshot](C:\Users\Micci\desktop\cautious-meme\client\src\images\Screenshot 2023-07-21 205848.png)
 
 
 ## Resources
 
-Chat GPT: Chat GPT, powered by OpenAI, provided valuable assistance throughout the development process
+Chat GPT: Chat GPT, powered by OpenAI, provided valuable assistance throughout the development process.
 Carol Wargo (classmate) and I worked together on this project.
 
 ## License
