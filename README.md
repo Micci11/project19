@@ -37,8 +37,7 @@ Feel free to explore the application's features and enjoy an enhanced writing ex
 
 ## Screenshot
 
-![screenshot](C:\Users\Micci\desktop\cautious-meme\client\src\images\Screenshot 2023-07-21 205848.png)
-
+![Screenshot](client/src/images/Screenshot%202023-07-21%20205848.png)
 
 ## Resources
 
